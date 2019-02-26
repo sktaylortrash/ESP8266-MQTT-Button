@@ -1,0 +1,30 @@
+{
+  "ssid": "Network",
+  "password": "password",
+  "localhost": "Bedroom",
+  "fwUrlBase": "http://firmware.server.com/firmware/",
+  "ip": [
+    192,
+    168,
+    1,
+    152
+  ],
+"gw": [
+    192,
+    168,
+    1,
+    254
+  ],
+  "sn": [
+    255,
+    255,
+    255,
+    0
+  ],
+  "ns": [
+    8,
+    8,
+    8,
+    8
+  ]
+}
